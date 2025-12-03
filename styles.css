@@ -1,0 +1,29 @@
+/* Estilos CSS - styles.css */
+body {
+    font-family: Arial, sans-serif; /* Define un tipo de letra más legible */
+    margin: 0; /* Quita el margen blanco del borde */
+    background-color: #f4f4f4; /* Fondo gris muy claro (suave) */
+    color: #333; /* Color de letra gris oscuro */
+}
+
+header {
+    background-color: #007bff; /* Color azul para el encabezado (puedes cambiarlo al color de tu empresa) */
+    color: white; /* Letra blanca */
+    padding: 20px 0; /* Espacio arriba y abajo */
+    text-align: center; /* Centra el texto */
+    border-bottom: 5px solid #0056b3; /* Línea de separación */
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 900px; /* Limita el ancho del contenido para que se vea bien */
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave para que destaque */
+    border-radius: 8px; /* Bordes redondeados suaves */
+}
